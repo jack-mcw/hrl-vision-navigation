@@ -5,3 +5,5 @@ The feature extractor is a transfer learned ResNet-50. This image data is then f
 
 Training results:
 ![Training results graph](https://github.com/jackomcw/hrl-vision-navigation/blob/60326334758e4ff2689bed741b086def932fae4d/training-results.png)
+
+Shorter run length and reward close to 0 are ideal.
